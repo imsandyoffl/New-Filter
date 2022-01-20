@@ -82,12 +82,22 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
-## Installation
+## Installation 87
+### Deploy to Heroku
+88
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imsandyoffl/New-Filter)
+ )
+89
 
-### Deploy in your vps
+### Deploy in your 87
+### Deploy to Heroku
+88
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot vps
 ```sh
 git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
